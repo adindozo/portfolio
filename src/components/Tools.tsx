@@ -33,6 +33,7 @@ const Tools: FC = () => {
             <li>TailwindCSS, Bootstrap</li>
             <li>React, Next.js, Redux</li>
             <li>Node.js, Express.js, MongoDB, SQL, PostgreSQL</li>
+            <li>Vercel hosting</li>
             <li>REST APIs</li>
           </ul>
         </div>
