@@ -106,7 +106,7 @@ const Nav: FC = () => {
               animationState === "hovered" ? "text-sky-400" : "text-white"
             }`}
           >
-            Adin Đozos
+            Adin Đozo
           </p>
         </motion.div>
         {isTabletOrMobile && (
