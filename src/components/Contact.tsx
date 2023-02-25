@@ -31,7 +31,7 @@ const Contact: FC = () => {
         >
           <div className="flex flex-col space-y-8">
             <h1 className="font-medium text-3xl md:text-5xl">
-            I'd love to hear from you!
+            I&apos;d love to hear from you!
             </h1>
             <p className="text-white-secondary text-xl md:text-2xl md:w-2/3">
               You can find me on these platforms:
@@ -47,7 +47,7 @@ const Contact: FC = () => {
               <a 
                 href="https://www.linkedin.com/in/adindozo/"
                 className="flex space-x-5 items-center hover:text-slate-300"
-              target='_blank'>
+              target='_blank' rel="noreferrer">
                 <FaLinkedin size={30} color="#3b82f6" />
                 <p>LinkedIn</p>
               </a>

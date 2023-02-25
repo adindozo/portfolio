@@ -1,6 +1,8 @@
 import { FC } from "react";
 import { motion } from "framer-motion";
 import { useMediaQuery } from "react-responsive";
+import Image from "next/image";
+
 
 interface Props {
     title: string;
