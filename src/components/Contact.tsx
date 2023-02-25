@@ -56,7 +56,7 @@ const Contact: FC = () => {
               <a 
                 href="https://github.com/adindozo"
                 className="flex space-x-5 items-center hover:text-slate-300"
-              target='_blank'>
+              target='_blank' rel="noreferrer">
                 <FaGithub size={30} color="#3b82f6" />
                 <p>GitHub</p>
               </a>

@@ -51,7 +51,7 @@ const WorkCard: FC<Props> = ({
                 {techTitle}
             </p>
             <p className="font-medium text-xl tracking-wider name-gradient">{title}</p>
-            <p className="text-white-secondary">{description ? description : <a href={link} target='_blank'><img src={link} className='cert'/></a>}</p>
+            <p className="text-white-secondary">{description ? description : <a href={link} target='_blank' rel="noreferrer"><img src={link} className='cert'/></a>}</p>
             <div className="flex items-center space-x-2 font-medium text-xs !mt-3">
                 {repoLink ? <a
                     href={repoLink}
