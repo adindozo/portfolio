@@ -58,7 +58,7 @@ const Contact: FC = () => {
                 className="flex space-x-5 items-center hover:text-slate-300"
               target='_blank' rel="noreferrer">
                 <FaGithub size={30} color="#3b82f6" />
-                <p>GitHub</p>
+                <p>GitHubA</p>
               </a>
             </li>
             <li data-aos="fade-up">

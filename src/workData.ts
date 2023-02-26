@@ -9,7 +9,7 @@ const projects = [
     {
         title: "Chess",
         techTitle: "React / Hooks (State, Effect)",
-        description: "Legal movement highlight on board, timers, moves history, piece cemetery, game modes.",
+        description: "Developed chess game using React with legal movement highlighting on board, timers, moves history, piece cemetery and selectable game modes.",
         repoLink: "https://github.com/adindozo/react-chess",
         website: "https://adindozo.github.io/react-chess/"
     },
