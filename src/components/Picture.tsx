@@ -26,7 +26,7 @@ const Picture: FC = () => {
         animate={{ opacity: 1, transition: { duration: 0.7 } }}
         initial={{ opacity: 0 }}
       >
-        Hello, I&apos;m Adin Đozo. 
+        Adin Đozo
       </motion.h1>
       <motion.p
         className="md:w-1/2 mx-auto text-center mt-6 text-sky-100"
@@ -38,7 +38,7 @@ const Picture: FC = () => {
         initial={{ opacity: 0, y: -30 }}
       >
         Full Stack Developer<br />
-        Scroll down to learn more about me!
+        Scroll down to learn more
       </motion.p>
     </motion.div>
   );

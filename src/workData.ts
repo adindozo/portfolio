@@ -22,7 +22,7 @@ const projects = [
     },
     {
         title: "ITOpenChallenge(coding) hackathon finalist",
-        techTitle: "C++ / OOP / DSA",
+        techTitle: "C++ / OOP / DSA Certification",
         link: "/static/certificate1.png"
     },
 ];

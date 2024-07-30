@@ -139,7 +139,7 @@ const Nav: FC = () => {
           <Link className="rounded-md border-4 border-sky-700 bg-sky-700 navlink" to="tools" activeClass="active" smooth duration={200}>Skills</Link>
           <Link className="rounded-md border-4 border-sky-700 bg-sky-700 navlink" to="contact" activeClass="active" smooth duration={200}>Contact</Link>
           {/* <Link className="rounded-md border-4 border-sky-700 bg-sky-700 navlink" to="/cv.pdf" activeClass="active" smooth duration={200}>CV</Link> */}
-          <a className="rounded-md border-4 border-sky-700 bg-sky-700 navlink" href="/cv.pdf">CV</a>
+          <a target="_blank" className="rounded-md border-4 border-sky-700 bg-sky-700 navlink" href="/cv.pdf">CV</a>
         </div>
       )}
       <AnimatePresence>

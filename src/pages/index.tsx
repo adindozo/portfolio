@@ -2,6 +2,7 @@ import Head from "next/head";
 import Picture from "../components/Picture";
 import Work from "../components/Work";
 import Tools from "../components/Tools";
+import Companies from "../components/Companies";
 import Contact from "../components/Contact";
 import { FC, useEffect, useState } from "react";
 import ScrollTop from "../components/ScrollTop";
@@ -60,6 +61,7 @@ const Home: FC = () => {
         <Picture />
         <Work />
         <Tools />
+        <Companies />
         <Contact />
       </LayoutGroup>
       {scrollTop && <ScrollTop />}
