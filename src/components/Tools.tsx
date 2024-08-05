@@ -28,7 +28,7 @@ const Tools: FC = () => {
     <div data-aos="fade-right" className="bg-bg-surface outline outline-0 outline-fuchsia-500 rounded-lg py-8 px-16 flex flex-col flex-auto h-85 space-y-6 items-start transition-all hover:outline-4 skillsSection">
       <FaDesktop color="#f3f3f1" size={100} className="self-center" />
       <h1 className="font-openSans font-bold text-3xl self-center">
-        Front End
+        Client Side
       </h1>
       <ul className="list-disc text-white-300">
             <li>React (with and without TypeScript)</li>
@@ -36,8 +36,10 @@ const Tools: FC = () => {
             <li>JavaScript (DOM manipulation, JavaScript Object Notation)</li>
             <li>Tailwind</li>
             <li>Bootstrap</li>
-            <li>CSS, DRY principle</li>
+            <li>CSS</li>
+            <li>DRY principle</li>
             <li>Responsive design</li>
+            <li>User auth</li>
             <li>SEO optimization (meta tags, rich search results, Structured data, JSON-LD)</li>
             <li>Web accessibility principles</li>
             <li>Performance optimizations (Image preloading, lazy loading, etc.)</li>
@@ -48,7 +50,7 @@ const Tools: FC = () => {
     <div data-aos="fade-left" className="bg-bg-surface outline outline-0 outline-blue-500 rounded-lg py-8 px-16 flex flex-col h-85 space-y-6 items-start md:col-span-2 lg:col-span-1 transition-all hover:outline-4 skillsSection">
       <FaServer color="#f3f3f1" size={100} className="self-center" />
       <h1 className="font-openSans font-bold text-3xl self-center">
-        Back End
+        Server Side
       </h1>
       <ul className="list-disc text-white-300">
             <li>Node.js</li>
@@ -96,7 +98,7 @@ const Tools: FC = () => {
         CMS
       </h1>
       <ul className="list-disc text-white-300">
-        <li>Custom CMS development</li>
+        <li>Custom CMS development (not wp)</li>
         <li>WordPress</li>
         <li>Avada Theme</li>
         <li>WP plugins</li>
