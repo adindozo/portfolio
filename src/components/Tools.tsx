@@ -90,7 +90,7 @@ const Tools: FC = () => {
             <li>Server scaling (horizontal and vertical)</li>
       </ul>
     </div>
-    <div style={{ gridColumn: 'span 3', display: 'flex', justifyContent: 'space-around'}}>
+    <div className="div-tools">
     {/* CMS */}
     <div data-aos="fade-left" className="bg-bg-surface outline outline-0 outline-yellow-500 rounded-lg py-8 px-16 flex flex-col h-85 space-y-6 items-start transition-all hover:outline-4 skillsSection" style={{minWidth:'400px'}}>
       <FaWordpress color="#f3f3f1" size={100} className="self-center" />

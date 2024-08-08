@@ -140,3 +140,16 @@ li{
      max-height: 85px;
     }
   }
+
+  .div-tools {
+    grid-column: span 3;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  @media (max-width: 600px) {
+    .div-tools {
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
