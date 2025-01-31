@@ -45,7 +45,7 @@ const Companies: FC = () => {
           className="bg-bg-surface outline outline-0 outline-blue-500 rounded-lg py-8 px-16 flex flex-col space-y-6 items-start transition-all hover:outline-4"
         >
           <div className="self-center">
-            <img src="https://www.scode.ba/assets/img/scode_logo_large.png" alt="Scode d.o.o - IT Solutions" className="w-32" />
+            <img src="/static/scode_logo.webp" alt="Scode d.o.o - IT Solutions" className="w-16" />
           </div>
           <h1 className="font-openSans font-bold text-3xl self-center">
             Scode d.o.o - IT Solutions
@@ -54,7 +54,24 @@ const Companies: FC = () => {
            </p>
         </div>
         </a>
+       
+        <a href="https://zully.store/" target="_blank" rel="noreferrer">
+        <div
+          data-aos="fade-up"
+          className="bg-bg-surface  outline outline-0 outline-red-500 rounded-lg py-8 px-16 flex flex-col space-y-6 items-start transition-all hover:outline-4"
+        >
+          <div className="self-center">
+            <img src="/static/F.png" alt="Wirth & Horn Informationssysteme GmbH" className="w-32" />
+          </div>
+          <h1 className="font-openSans font-bold text-3xl self-center">
+          Zully LTD
+          </h1>
+          <p className="text-white-300">
+          </p>
+        </div>
+        </a>
       </div>
+
     </section>
   );
 };

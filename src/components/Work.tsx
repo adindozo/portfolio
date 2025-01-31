@@ -15,7 +15,7 @@ const Work: FC = () => {
       layout
     >
       <h1 className="text-white font-openSans text-center text-4xl font-bold mt-6 leading-tight tracking-tighter">
-        Projects
+        Projects and Other Work
       </h1>
       <div className="grid md:grid-cols-2 gap-6 projects">
         {projects.map((project, i) => (

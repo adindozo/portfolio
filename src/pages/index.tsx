@@ -57,7 +57,6 @@ const Home: FC = () => {
       </Head>
       <LayoutGroup>
         {typeof window !== "undefined" && <DynamicNav />}
-        {/* <img src="/static/certificate1.png" alt="" /> */}
         <Picture />
         <Work />
         <Tools />

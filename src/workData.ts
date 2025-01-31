@@ -14,11 +14,10 @@ const projects = [
         website: "https://adindozo.github.io/react-chess/"
     },
     {
-        title: "Sarajevo weather app",
-        techTitle: "React / External rest Api",
-        description: "Developed weather forecast app with React utilizing JSON data from external API, displaying up-to-date weather information.",
-        repoLink: "https://github.com/adindozo/weather-app-react",
-        website: "https://adindozo.github.io/weather-app-react/"
+        title: "Letter of recommendation",
+        techTitle: "React / SEO optimization / Tailwind / Docker / REST API",
+        link: "/static/testemonial.jpg"
+
     },
     {
         title: "ITOpenChallenge(coding) hackathon finalist",
