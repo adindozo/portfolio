@@ -14,7 +14,7 @@ const projects = [
         website: "https://adindozo.github.io/react-chess/"
     },
     {
-        title: "Letter of recommendation",
+        title: "Letter of recommendation BA",
         techTitle: "React / SEO optimization / Tailwind / Docker / REST API",
         link: "/static/testemonial.jpg"
 
