@@ -98,7 +98,8 @@ const Tools: FC = () => {
         CMS
       </h1>
       <ul className="list-disc text-white-300">
-        <li>Custom CMS development (not wp)</li>
+        <li>Custom CMS development</li>
+        <li>Shopify, &quotLiquid&quot template language</li>
         <li>WordPress</li>
         <li>Avada Theme</li>
         <li>WP plugins</li>
