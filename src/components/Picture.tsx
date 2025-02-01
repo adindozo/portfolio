@@ -37,7 +37,7 @@ const Picture: FC = () => {
         }}
         initial={{ opacity: 0, y: -30 }}
       >
-        Full Stack Developer<br />
+        Software Engineer<br />
         Scroll down to learn more
       </motion.p>
     </motion.div>
