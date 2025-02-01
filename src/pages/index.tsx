@@ -62,6 +62,8 @@ const Home: FC = () => {
         <Tools />
         <Companies />
         <Contact />
+        <br />
+        <br />
       </LayoutGroup>
       {scrollTop && <ScrollTop />}
     </>
