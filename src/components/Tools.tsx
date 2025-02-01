@@ -99,7 +99,7 @@ const Tools: FC = () => {
       </h1>
       <ul className="list-disc text-white-300">
         <li>Custom CMS development</li>
-        <li>Shopify, &quotLiquid&quot template language</li>
+        <li>Shopify, Liquid template language</li>
         <li>WordPress</li>
         <li>Avada Theme</li>
         <li>WP plugins</li>
