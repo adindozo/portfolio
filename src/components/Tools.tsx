@@ -76,14 +76,14 @@ const Tools: FC = () => {
         DevOps & Deployment
       </h1>
       <ul className="list-disc text-white-300">
-            <li>Docker</li>
-            <li>SVN, GIT</li>
+            <li>Containerization(Docker)</li>
+            <li>Version control(SVN, GIT)</li>
             <li>FTP</li>
             <li>Apache and Nginx server configuration</li>
             <li>Server security (CORS, CSP, security headers)</li>
             <li>DigitalOcean</li>
             <li>SSL/TLS certificates management</li>
-            <li>Containerization</li>
+            <li>Domain management & setup</li>
             <li>Portainer (debugging and monitoring)</li>
             <li>CI/CD (GitLab, pipelines)</li>
             <li>Performance tracking (Lighthouse)</li>
